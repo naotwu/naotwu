@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naotwu&label=Profile%20views&color=0e75b6&style=flat" alt="naotwu" /> </p>
 
-[![naotwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=naotwu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![naotwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=naotwu&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **naotwu/naotwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
