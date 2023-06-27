@@ -5,7 +5,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=naotwu&theme=dark_lover&no-frame=true)](https://github.com/naotwu)
 
 [![naotwu's GitHub stats](https://github-readme-stats.vercel.app/api?username=naotwu&count_private=true&show_icons=true&disable_animations=true&hide_border=true&title_color=ffffff&text_color=808080&icon_color=ffd700&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naotwu&count_private=true&layout=compact&disable_animations=true&hide_border=true&title_color=ffffff&text_color=808080&icon_color=ffd700&bg_color=000000)](https://github.com/naotwu/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naotwu&theme=highcontrast)](https://git.io/streak-stats)
 
